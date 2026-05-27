@@ -1,4 +1,4 @@
-# Terraform state files
+﻿# Terraform state files
 *.tfstate
 *.tfstate.backup
 
@@ -10,3 +10,13 @@ crash.log
 
 # Sensitive files
 terraform.tfvars
+# ============================================================
+# Agent Skills (auto-synced by ia-backup — DO NOT COMMIT)
+# Managed by: Sync_Skills_Workspace.ps1
+# ============================================================
+.agents/skills/
+.claude/skills/
+.gemini/skills/
+.copilot/skills/
+.codex/skills/
+.github/skills/
