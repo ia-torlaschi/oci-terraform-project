@@ -1,5 +1,12 @@
 # OCI Terraform Project - GPT Custom Example
 
+<!-- ia-backup-gitignore-policy-2026-07-31 -->
+> **Política Git IA pública — 2026-07-31:** las 27 rutas operativas IA están
+> excluidas de Git. Este repositorio no recibe Sync, Google overlay, memoria
+> operativa ni particulares desde ia-backup. La exclusión declara expresamente
+> .agents, .claude, .codex, .continue, .copilot, .gemini y
+> .github.
+
 Este repositorio documenta el GPT personalizado **IaC Master Architect** y un ejemplo completo de infraestructura para **Oracle Cloud Infrastructure (OCI)** generado con **Terraform**. El proyecto muestra cómo implementar una arquitectura de red, bases de datos, servidores bastión y más usando Terraform y siguiendo las mejores prácticas.
 
 ## Descripción del GPT
